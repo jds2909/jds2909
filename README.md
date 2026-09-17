@@ -28,7 +28,7 @@ The homepage is currently under development, with the project intended to grow i
 
 * [View repository →](https://github.com/jds2909/doggy-daycare)
 
-### WinTune Manager
+### WinTune
 
 A Modern C++ Windows optimisation and system-configuration tool designed to provide a clear interface for applying, reviewing, and reverting Windows performance settings.
 
