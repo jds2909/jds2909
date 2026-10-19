@@ -1,10 +1,32 @@
 # Hi, I'm Joseph 👋
 
-Computer Science graduate from the University of Hull with a **2:1 (Upper Second Class Honours)**, interested in graduate software engineering opportunities.
+Computer Science graduate from the University of Hull with a **2:1 (Upper Second Class Honours)**, currently targeting graduate software engineering roles.
 
-I work primarily with **Modern C++, Python, C#, and SQL**, with experience across REST APIs, databases, object-oriented programming, data structures and algorithms, performance optimisation, and version control.
+I work primarily with **Modern C++, Python, C#, TypeScript, and SQL**, with experience across REST APIs, databases, object-oriented programming, data structures and algorithms, testing, performance optimisation, and version control.
 
 ## 🚀 Current Projects
+
+### Doggy Daycare Booking Platform
+
+A deployed full-stack booking enquiry platform built for a real small business.
+
+The system provides a public-facing booking flow alongside a protected admin area for reviewing and managing enquiries.
+
+Key features include:
+
+* **Next.js / TypeScript** frontend and API
+* **Zod** server-side validation
+* **Supabase PostgreSQL** persistence
+* Atomic multi-table writes through a PostgreSQL RPC
+* Idempotent submission handling using submission keys and payload hashing
+* **Supabase Auth** protected admin area
+* **Resend** email notifications
+* 51 automated tests plus separate SQL transaction tests
+* **GitHub Actions CI**
+* Privacy, retention, and security documentation
+* Production deployment through **Vercel**
+
+* [View repository →](https://github.com/jds2909/doggy-daycare)
 
 ### Pareto Optimality Framework
 
@@ -17,16 +39,6 @@ My honours project focused on developing a Python framework for computing and vi
 * Focused on vectorisation, performance optimisation, and clearer analysis of optimisation results
 
 * [View repository →](https://github.com/jds2909/Pareto-Optimality-Calculation-and-Display)
-
-### Doggy Daycare Web Application
-
-Currently developing a full-stack web application for a real doggy daycare business.
-
-The application is being developed to provide customer-facing business information alongside planned functionality for **bookings and administration**.
-
-The homepage is currently under development, with the project intended to grow into a complete full-stack application.
-
-* [View repository →](https://github.com/jds2909/doggy-daycare)
 
 ### WinTune
 
@@ -44,15 +56,14 @@ Current work includes:
 
 ## 🛠 Technical Skills
 
-**Languages:** Python, Modern C++, C#, SQL
-**Web:** ASP.NET, REST APIs, HTML, CSS, JavaScript
-**Databases:** PostgreSQL, MySQL, SQL Server
-**Tools:** Git, Azure, Plotly Dash
-**Concepts:** OOP, data structures & algorithms, API integration, performance optimisation, Agile/SCRUM, SDLC, version control
+**Languages:** Python, Modern C++, C#, TypeScript, SQL  
+**Frameworks / Tools:** Next.js, ASP.NET, Tailwind CSS, Git, Vercel, Azure, Plotly Dash  
+**Databases:** PostgreSQL, MySQL, SQL Server  
+**Concepts:** OOP, REST APIs, data structures & algorithms, API integration, software testing, performance optimisation, version control
 
 ## 🎓 Education
 
-**BSc Computer Science — University of Hull**
+**BSc Computer Science — University of Hull**  
 2:1 Upper Second Class Honours, 2023–2026
 
 Relevant final-year modules included:
